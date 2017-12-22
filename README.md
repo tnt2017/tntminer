@@ -1,0 +1,2 @@
+# tntminer
+My replace nicehash
