@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\bin\Debug\tntminer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\bin\Debug\tntminer.exe
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\bin\Debug\tntminer.pdb
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\obj\Debug\tntminer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\obj\Debug\tntminer.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\obj\Debug\tntminer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\obj\Debug\tntminer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\obj\Debug\tntminer.exe
+c:\users\user\documents\visual studio 2015\Projects\tntminer\tntminer\obj\Debug\tntminer.pdb
